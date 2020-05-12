@@ -1,5 +1,5 @@
 {
-  "name": "xml-crypto",
+  "name": "1d-xml-crypto",
   "version": "1.5.3",
   "description": "Xml digital signature and encryption library for Node.js",
   "engines": {
